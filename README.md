@@ -1,2 +1,10 @@
 # TachePromar
-Plateforme de mise en relation entre travailleurs du BTP et employeurs au Maroc  TachePro-Mar est une solution digitale 100% gratuite pour connecter les artisans, ouvriers et professionnels du BTP (maçons, plombiers, électriciens...) avec des employeurs (particuliers, entreprises) cherchant des compétences locales.
+TachePro-Mar révolutionne la rencontre entre l'offre et la demande de main-d'œuvre dans tous les secteurs d'activité :BTP (maçons, peintres, électriciens...)
+
+Services domestiques (femmes de ménage, jardiniers)
+
+Industrie (ouvriers d'usine, techniciens)
+
+Chantiers (manœuvres, conducteurs d'engins)
+
+Et bien plus (tous métiers manuels)
