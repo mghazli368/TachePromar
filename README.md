@@ -1,10 +1,9 @@
 # TachePromar
-TachePro-Mar révolutionne la rencontre entre l'offre et la demande de main-d'œuvre dans tous les secteurs d'activité :BTP (maçons, peintres, électriciens...)
+ TâchePro-Mar – Plateforme de mise en relation pour la main-d’œuvre au Maroc
+TâchePro-Mar est une plateforme digitale innovante qui facilite la mise en relation entre les travailleurs — qu’ils soient qualifiés ou non — et les employeurs, dans tous les secteurs d’activité : BTP, ménage, industrie, services, logistique, agriculture, etc.
 
-Services domestiques (femmes de ménage, jardiniers)
+💼 Pour les employeurs :
+TâchePro-Mar permet de publier des offres, rechercher des profils selon des critères précis (secteur, localisation, disponibilité), communiquer directement avec les candidats et gérer les candidatures en toute simplicité.
 
-Industrie (ouvriers d'usine, techniciens)
-
-Chantiers (manœuvres, conducteurs d'engins)
-
-Et bien plus (tous métiers manuels)
+👷‍♀️ Pour les travailleurs :
+La plateforme offre la possibilité de créer un profil complet, postuler à des offres ciblées, recevoir des notifications multilingues et être évalué pour valoriser son expérience et sa fiabilité.
